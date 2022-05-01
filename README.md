@@ -1,14 +1,28 @@
-# Proiect_CINEMA
-Project Cinema
+# Project_CINEMA
+Project Cinema 
 
 How to use the application
+First create a database named theater_db
+then import the sql file from Database file
+and start Xampp Apache
 
-
-
-to enter like a user use:
+To enter like a user use:
 http://127.0.0.1/Proiect_CINEMA/
 
-to enter like an admin use:
+To enter like an admin use:
 http://127.0.0.1/Proiect_CINEMA/admin
 
-1.System registration and authentication When accessing the home page,the latest posts are displayed on the page (Figure 1) Registration or authentication options are provided in the navigation bar. If we are not registered we can only see the posts(Figura 2) . If we are logged in we can add new post via classic ways or import an .csv file, or we can edit or delete your posts (just your posts).
+Admin account:
+user: admin
+password: admin123
+
+Home page
+![image](https://user-images.githubusercontent.com/87446991/166160228-25719489-c85d-4310-a825-71770aaea8af.png)
+
+All movies
+![image](https://user-images.githubusercontent.com/87446991/166160242-6458d82a-572d-4c79-bb71-5409285a30a4.png)
+
+Reservation from user view
+![image](https://user-images.githubusercontent.com/87446991/166160257-1db6c6ff-e8d0-49c0-b3ac-c53a4fe4e4ee.png)
+Reservation from admin page
+![image](https://user-images.githubusercontent.com/87446991/166160316-aad37339-e75c-4c3d-839c-3be252472710.png)
